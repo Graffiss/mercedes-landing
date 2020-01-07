@@ -354,6 +354,7 @@ footer h4 {
 /* Mobile friendly */
 
 @media screen and (max-width: 859px) {
+
 	/* Hero */
 	.hero {
 		width: 100%;
